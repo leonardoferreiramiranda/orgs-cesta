@@ -2,7 +2,7 @@
 Aplicação mobile em React Native para praticar meus conhecimentos na construção de interfaces. Este projeto implementa a tela de detalhes de uma cesta do e-commerce orgs. Nesta tela são mostrados dados estáticos do nome da cesta, fazenda, preço e itens da cesta.
 <br />
 <br />
-<img src="https://user-images.githubusercontent.com/9091491/123982988-e3ccb700-d999-11eb-880e-872881ee8b10.gif" alt="Image" height="600" width="320">
+<img src="https://user-images.githubusercontent.com/9091491/123982988-e3ccb700-d999-11eb-880e-872881ee8b10.gif" alt="Image" height="550" width="320">
 <h2>Técnicas e Tecnologias</h2>
 As técnicas e tecnologias utilizadas no projeto são:
 <br />
